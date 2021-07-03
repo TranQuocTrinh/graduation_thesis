@@ -1,4 +1,4 @@
-# kltn
+# graduation_thesis
 
 ### Kế hoạch thực hiện khóa luận: https://docs.google.com/spreadsheets/d/1NTT391VXNkY8nsUlxh8JEnQkLb5So6fefUJLGQ9A8e0/edit?usp=sharing
 ---
@@ -19,5 +19,3 @@ Sử dụng python3.7 để huấn luyện mô hình và phát sinh câu mô t�
 
 Sử dụng python2.7 để đánh giá mô hình. Microsoft COCO Caption Evaluation từ https://github.com/tylin/coco-caption
 4. ***evaluate/coco-caption/eval.py***: Tính các điểm số của các độ đo BLEU-1, BLEU-2, BLEU-3, BLEU-4 và METEOR trên tập test.
-
-
